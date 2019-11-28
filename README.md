@@ -17,4 +17,3 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# newVue 测试新的分支123123123啊大苏打撒旦123213123111111
